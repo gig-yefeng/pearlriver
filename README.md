@@ -1,2 +1,2 @@
 # pearlriver
-dissolved oxygen and stable isotopes
+dissolved oxygen and stable isotopic data
